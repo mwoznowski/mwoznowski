@@ -13,7 +13,7 @@ I am self-taught a full stack developer
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 </p>
 
-## My skils
+## My skills
 * PHP
 * Laravel
 * C#
