@@ -1,11 +1,13 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mwoznowski&show_icons=true"/>
-<img src="https://github-profile-trophy.vercel.app/?username=mwoznowski"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwoznowski"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mwoznowski&show_icons=true" width="420" align="right"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mwoznowski" width="420" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwoznowski" width="420" align="right"/>
 </p>
 
 # Hi! I'm Mateusz 👋
+
 I am self-taught a full stack developer
+
 <p align="left">
 <a href="https://www.linkedin.com/in/mwoznowski">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
