@@ -1,9 +1,7 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mwoznowski&show_icons=true" width="420" align="right"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mwoznowski" width="420" align="right"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwoznowski" width="420" align="right"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=mwoznowski&show_icons=true){ width="420" align="right" style="display: block; margin-bottom: .5rem" }
+![Trophies](https://github-profile-trophy.vercel.app/?username=mwoznowski){ width="420" align="right" style="display: block; margin-bottom: .5rem" }
+![Used langs]https://github-readme-stats.vercel.app/api/top-langs/?username=mwoznowski){ width="420" align="right" style="display: block; margin-bottom: .5rem" }
 </p>
 
 # Hi! I'm Mateusz 👋
